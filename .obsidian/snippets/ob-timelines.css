@@ -1,0 +1,9 @@
+.ob-timelines  { 
+    display: inline-block !important;
+    font-style: italic; 
+} 
+.ob-timelines::before { 
+    content: "🔖 " attr(data-date) ": " attr(data-title) ". "; 
+    color: lilac; 
+    font-weight: 500; 
+}

@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "14188ef6c10599b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d44f6c4ff6c7dd1",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "历史线-dateview.md",
+            "mode": "preview",
+            "source": false
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "027a7e6917da5abc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddd647a0566b18bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f9147c15b43b88d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "42a78d7da325c010",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ece17647c3693a05",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 436
+  },
+  "right": {
+    "id": "b5e19a1aebf9a1b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b5a4aa297240eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb0c6624513c95dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "历史线-dateview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c6585cb2e0d52b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "历史线-dateview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71c65919eb69afc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1711c5d17380a873",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "历史线-dateview.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181
+  },
+  "active": "6d44f6c4ff6c7dd1",
+  "lastOpenFiles": [
+    "行业分析/芯片.md",
+    "行业分析/新能源车.md",
+    "Tmeplates/Books.md",
+    "Tmeplates/GreatPerson.md",
+    "GreatPerson/J·P·摩根.md",
+    "Books/《逃不开的经济周期》.md",
+    "书单.md",
+    "历史线-dateview.md",
+    "Books/《伟大的博弈》.md",
+    "Books/《国富论》.md"
+  ]
+}
