@@ -6,15 +6,13 @@
       {
         "id": "6d44f6c4ff6c7dd1",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "历史线-dateview.md",
-            "mode": "preview",
+            "file": "投资笔记系统.md",
+            "mode": "source",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -79,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史线-dateview.md",
+                "file": "投资笔记系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史线-dateview.md",
+                "file": "投资笔记系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史线-dateview.md"
+                "file": "投资笔记系统.md"
               }
             }
           }
@@ -132,15 +130,15 @@
   },
   "active": "6d44f6c4ff6c7dd1",
   "lastOpenFiles": [
-    "行业分析/芯片.md",
-    "行业分析/新能源车.md",
-    "Tmeplates/Books.md",
-    "Tmeplates/GreatPerson.md",
-    "GreatPerson/J·P·摩根.md",
+    "Tmeplates/permanent note.md",
+    "Tmeplates/fleeting note.md",
+    "投资笔记系统.md",
+    "Books/《国富论》.md",
+    "Books/《经济学原理》.md",
     "Books/《逃不开的经济周期》.md",
+    "Books/《伟大的博弈》.md",
     "书单.md",
     "历史线-dateview.md",
-    "Books/《伟大的博弈》.md",
-    "Books/《国富论》.md"
+    "Excalidraw/Drawing 2022-10-01 15.38.10.excalidraw.md"
   ]
 }

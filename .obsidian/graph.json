@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#timeline",
+      "color": {
+        "a": 1,
+        "rgb": 14078556
+      }
+    },
+    {
+      "query": "tag:#books",
+      "color": {
+        "a": 1,
+        "rgb": 6054102
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
