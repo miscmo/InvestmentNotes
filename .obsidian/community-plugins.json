@@ -4,5 +4,7 @@
   "obsidian-git",
   "obsidian-commits",
   "table-editor-obsidian",
-  "dataview"
+  "dataview",
+  "quick-latex",
+  "obsidian-auto-link-title"
 ]

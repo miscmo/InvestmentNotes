@@ -3,5 +3,6 @@
     "ob-timelines"
   ],
   "theme": "moonstone",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "accentColor": ""
 }
