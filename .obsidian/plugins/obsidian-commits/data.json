@@ -359,16 +359,6 @@
       "tags": 0,
       "links": 0
     },
-    "Excalidraw/Drawing 2022-10-07 17.00.33.excalidraw.md": {
-      "size": 1526,
-      "tags": 1,
-      "links": 0
-    },
-    "Excalidraw/Drawing 2022-10-01 15.38.10.excalidraw.md": {
-      "size": 6247,
-      "tags": 1,
-      "links": 0
-    },
     "Books/《资本论》.md": {
       "size": 77,
       "tags": 1,
@@ -393,13 +383,18 @@
       "size": 94,
       "tags": 2,
       "links": 0
+    },
+    "Fleeting/财政赤字货币化.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 0,
-      "Create": 0,
-      "Link": 0,
+      "Refactor": 3,
+      "Create": 1,
+      "Link": 1,
       "Expand": 0
     }
   },
@@ -417,7 +412,7 @@
       "9": 0,
       "10": 0,
       "11": 0,
-      "12": 0,
+      "12": 5,
       "13": 0,
       "14": 0,
       "15": 0,
@@ -433,23 +428,32 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 0,
+      "Mon": 3,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 0
+      "Sun": 2
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [],
-      "Created": [],
-      "Renamed": [],
-      "Tagged": [],
+      "Created": [
+        "<a class=\"internal-link\" href=\"Fleeting/未命名.md\"> 未命名 </a>"
+      ],
+      "Renamed": [
+        "<a class=\"internal-link\" href=\"Fleeting/财政赤字货币化.md\"> 财政赤字货币化 </a>"
+      ],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"Fleeting/财政赤字货币化.md\"> 财政赤字货币化 </a>"
+      ],
       "Refactored": [],
-      "Deleted": [],
+      "Deleted": [
+        "<a class=\"internal-link\" href=\"Excalidraw/Drawing 2022-10-01 15.38.10.excalidraw.md\"> Drawing 2022-10-01 15.38.10.excalidraw </a>",
+        "<a class=\"internal-link\" href=\"Excalidraw/Drawing 2022-10-07 17.00.33.excalidraw.md\"> Drawing 2022-10-07 17.00.33.excalidraw </a>"
+      ],
       "Linked": [],
       "Removed Tags from": [],
       "Removed Links from": []

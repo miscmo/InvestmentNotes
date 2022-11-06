@@ -11,11 +11,16 @@
             "id": "f0f2e2925261f321",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/汇率.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fleeting/汇率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fleeting/汇率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fleeting/汇率.md"
+              }
             }
           }
         ],
@@ -128,20 +137,17 @@
     "direction": "horizontal",
     "width": 181
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "f0f2e2925261f321",
   "lastOpenFiles": [
-    "Fleeting/杜邦分析法.md",
-    "Fleeting/汇率.md",
-    "Fleeting/净资产收益率.md",
-    "投资笔记系统.md",
-    "Fleeting/利率.md",
-    "Fleeting/权益乘数.md",
-    "Fleeting/总资产净利率.md",
+    "Fleeting/财政赤字货币化.md",
+    "Excalidraw/Drawing 2022-10-01 15.38.10.excalidraw.md",
     "Excalidraw/Drawing 2022-10-07 17.00.33.excalidraw.md",
-    "书单.md",
-    "Books/《国富论》.md"
+    "Fleeting/净资产收益率.md",
+    "Fleeting/利率.md",
+    "Fleeting/杜邦分析法.md",
+    "行业分析/芯片.md",
+    "Fleeting/汇率.md",
+    "投资笔记系统.md",
+    "Fleeting/权益乘数.md"
   ]
 }
